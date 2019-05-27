@@ -6,3 +6,122 @@
 2019-05-26 18:14:22 WARN  AppTest:27 - WARN MESSAGE
 2019-05-26 18:14:22 ERROR AppTest:28 - ERROR MESSAGE
 2019-05-26 18:14:22 FATAL AppTest:29 - FATAL MESSAGE
+2019-05-27 18:56:20 INFO  StudentTest:17 - -----------ConstructorTest---------------
+2019-05-27 18:56:20 INFO  StudentTest:55 - -----------ConstructorTest---------------
+2019-05-27 18:56:20 INFO  AppTest:25 - INFO MESSAGE
+2019-05-27 18:56:20 WARN  AppTest:27 - WARN MESSAGE
+2019-05-27 18:56:20 ERROR AppTest:28 - ERROR MESSAGE
+2019-05-27 18:56:20 FATAL AppTest:29 - FATAL MESSAGE
+2019-05-27 18:58:25 INFO  StudentTest:17 - -----------ConstructorTest---------------
+2019-05-27 18:58:25 INFO  StudentTest:28 - student id: 1
+2019-05-27 18:58:25 INFO  StudentTest:29 - surname: foo
+2019-05-27 18:58:25 INFO  StudentTest:30 - name: bar
+2019-05-27 18:58:25 INFO  StudentTest:31 - middle name: foobar
+2019-05-27 18:58:25 INFO  StudentTest:32 - date of birth: Sat Jan 16 00:09:00 EET 1999
+2019-05-27 18:58:25 INFO  StudentTest:33 - address: street
+2019-05-27 18:58:25 INFO  StudentTest:34 - telephone number: 8-701-123-13-32
+2019-05-27 18:58:25 INFO  StudentTest:35 - faculty: FIT
+2019-05-27 18:58:25 INFO  StudentTest:36 - year of studing: 1
+2019-05-27 18:58:25 INFO  StudentTest:37 - group: INF-12
+2019-05-27 18:58:25 INFO  StudentTest:45 - student id: 2
+2019-05-27 18:58:25 INFO  StudentTest:46 - surname: bar
+2019-05-27 18:58:25 INFO  StudentTest:47 - name: foo
+2019-05-27 18:58:25 INFO  StudentTest:48 - middle name: cypher
+2019-05-27 18:58:25 INFO  StudentTest:49 - date of birth: Thu Jan 21 00:01:00 EET 1999
+2019-05-27 18:58:25 INFO  StudentTest:50 - address: another
+2019-05-27 18:58:25 INFO  StudentTest:51 - telephone number: 8-771-323-34-42
+2019-05-27 18:58:25 INFO  StudentTest:52 - faculty: Not defined
+2019-05-27 18:58:25 INFO  StudentTest:53 - year of studing: 0
+2019-05-27 18:58:25 INFO  StudentTest:54 - group: Not defined
+2019-05-27 18:58:25 INFO  StudentTest:55 - -----------ConstructorTest---------------
+2019-05-27 18:58:25 INFO  AppTest:25 - INFO MESSAGE
+2019-05-27 18:58:25 WARN  AppTest:27 - WARN MESSAGE
+2019-05-27 18:58:25 ERROR AppTest:28 - ERROR MESSAGE
+2019-05-27 18:58:25 FATAL AppTest:29 - FATAL MESSAGE
+2019-05-27 19:00:18 INFO  StudentTest:17 - -----------ConstructorTest---------------
+2019-05-27 19:00:18 INFO  StudentTest:28 - student id: 1
+2019-05-27 19:00:18 INFO  StudentTest:29 - surname: foo
+2019-05-27 19:00:18 INFO  StudentTest:30 - name: bar
+2019-05-27 19:00:18 INFO  StudentTest:31 - middle name: foobar
+2019-05-27 19:00:18 INFO  StudentTest:32 - date of birth: Thu Sep 16 00:00:00 EEST 1999
+2019-05-27 19:00:18 INFO  StudentTest:33 - address: street
+2019-05-27 19:00:18 INFO  StudentTest:34 - telephone number: 8-701-123-13-32
+2019-05-27 19:00:18 INFO  StudentTest:35 - faculty: FIT
+2019-05-27 19:00:18 INFO  StudentTest:36 - year of studing: 1
+2019-05-27 19:00:18 INFO  StudentTest:37 - group: INF-12
+2019-05-27 19:00:18 INFO  StudentTest:45 - student id: 2
+2019-05-27 19:00:18 INFO  StudentTest:46 - surname: bar
+2019-05-27 19:00:18 INFO  StudentTest:47 - name: foo
+2019-05-27 19:00:18 INFO  StudentTest:48 - middle name: cypher
+2019-05-27 19:00:18 INFO  StudentTest:49 - date of birth: Thu Jan 21 00:00:00 EET 1999
+2019-05-27 19:00:18 INFO  StudentTest:50 - address: another
+2019-05-27 19:00:18 INFO  StudentTest:51 - telephone number: 8-771-323-34-42
+2019-05-27 19:00:18 INFO  StudentTest:52 - faculty: Not defined
+2019-05-27 19:00:18 INFO  StudentTest:53 - year of studing: 0
+2019-05-27 19:00:18 INFO  StudentTest:54 - group: Not defined
+2019-05-27 19:00:18 INFO  StudentTest:55 - -----------ConstructorTest---------------
+2019-05-27 19:00:18 INFO  AppTest:25 - INFO MESSAGE
+2019-05-27 19:00:18 WARN  AppTest:27 - WARN MESSAGE
+2019-05-27 19:00:18 ERROR AppTest:28 - ERROR MESSAGE
+2019-05-27 19:00:18 FATAL AppTest:29 - FATAL MESSAGE
+2019-05-27 20:03:41 INFO  AppTest:25 - INFO MESSAGE
+2019-05-27 20:03:41 WARN  AppTest:27 - WARN MESSAGE
+2019-05-27 20:03:41 ERROR AppTest:28 - ERROR MESSAGE
+2019-05-27 20:03:41 FATAL AppTest:29 - FATAL MESSAGE
+2019-05-27 20:05:19 INFO  StudentTest:68 - Sun Jul 16 00:00:00 EET 136
+2019-05-27 20:05:19 INFO  AppTest:25 - INFO MESSAGE
+2019-05-27 20:05:19 WARN  AppTest:27 - WARN MESSAGE
+2019-05-27 20:05:19 ERROR AppTest:28 - ERROR MESSAGE
+2019-05-27 20:05:19 FATAL AppTest:29 - FATAL MESSAGE
+2019-05-27 20:07:00 INFO  StudentTest:68 - Sun Jul 16 00:00:00 EET 136
+2019-05-27 20:07:00 INFO  StudentTest:69 - Mon May 27 20:07:00 EET 2019
+2019-05-27 20:07:00 INFO  AppTest:25 - INFO MESSAGE
+2019-05-27 20:07:00 WARN  AppTest:27 - WARN MESSAGE
+2019-05-27 20:07:00 ERROR AppTest:28 - ERROR MESSAGE
+2019-05-27 20:07:00 FATAL AppTest:29 - FATAL MESSAGE
+2019-05-27 20:09:29 ERROR Student:51 - Not be able to parse into date. Date of birth will set to current date.
+2019-05-27 20:09:29 INFO  StudentTest:68 - Mon May 27 20:09:29 EET 2019
+2019-05-27 20:09:29 INFO  StudentTest:69 - Mon May 27 20:09:29 EET 2019
+2019-05-27 20:09:29 INFO  AppTest:25 - INFO MESSAGE
+2019-05-27 20:09:29 WARN  AppTest:27 - WARN MESSAGE
+2019-05-27 20:09:29 ERROR AppTest:28 - ERROR MESSAGE
+2019-05-27 20:09:29 FATAL AppTest:29 - FATAL MESSAGE
+2019-05-27 20:10:13 ERROR Student:51 - Not be able to parse into date. Date of birth will set to current date.
+2019-05-27 20:10:13 INFO  StudentTest:68 - Mon May 27 20:10:13 EET 2019
+2019-05-27 20:10:13 INFO  AppTest:25 - INFO MESSAGE
+2019-05-27 20:10:13 WARN  AppTest:27 - WARN MESSAGE
+2019-05-27 20:10:13 ERROR AppTest:28 - ERROR MESSAGE
+2019-05-27 20:10:13 FATAL AppTest:29 - FATAL MESSAGE
+2019-05-27 20:10:26 INFO  StudentTest:68 - Sat Jan 16 00:00:00 EET 135
+2019-05-27 20:10:26 INFO  AppTest:25 - INFO MESSAGE
+2019-05-27 20:10:26 WARN  AppTest:27 - WARN MESSAGE
+2019-05-27 20:10:26 ERROR AppTest:28 - ERROR MESSAGE
+2019-05-27 20:10:26 FATAL AppTest:29 - FATAL MESSAGE
+2019-05-27 20:13:31 ERROR Student:54 - Not be able to parse into date. Date of birth will set to current date.
+2019-05-27 20:13:31 INFO  StudentTest:68 - Mon May 27 20:13:31 EET 2019
+2019-05-27 20:13:31 INFO  AppTest:25 - INFO MESSAGE
+2019-05-27 20:13:31 WARN  AppTest:27 - WARN MESSAGE
+2019-05-27 20:13:31 ERROR AppTest:28 - ERROR MESSAGE
+2019-05-27 20:13:31 FATAL AppTest:29 - FATAL MESSAGE
+2019-05-27 20:13:49 INFO  StudentTest:68 - Sun Dec 12 00:00:00 EET 1999
+2019-05-27 20:13:49 INFO  AppTest:25 - INFO MESSAGE
+2019-05-27 20:13:49 WARN  AppTest:27 - WARN MESSAGE
+2019-05-27 20:13:49 ERROR AppTest:28 - ERROR MESSAGE
+2019-05-27 20:13:49 FATAL AppTest:29 - FATAL MESSAGE
+2019-05-27 20:14:02 ERROR Student:54 - Not be able to parse into date. Date of birth will set to current date.
+2019-05-27 20:14:02 INFO  StudentTest:68 - Mon May 27 20:14:02 EET 2019
+2019-05-27 20:14:02 INFO  AppTest:25 - INFO MESSAGE
+2019-05-27 20:14:02 WARN  AppTest:27 - WARN MESSAGE
+2019-05-27 20:14:02 ERROR AppTest:28 - ERROR MESSAGE
+2019-05-27 20:14:02 FATAL AppTest:29 - FATAL MESSAGE
+2019-05-27 20:14:13 ERROR Student:54 - Not be able to parse into date. Date of birth will set to current date.
+2019-05-27 20:14:13 INFO  StudentTest:68 - Mon May 27 20:14:13 EET 2019
+2019-05-27 20:14:13 INFO  AppTest:25 - INFO MESSAGE
+2019-05-27 20:14:13 WARN  AppTest:27 - WARN MESSAGE
+2019-05-27 20:14:13 ERROR AppTest:28 - ERROR MESSAGE
+2019-05-27 20:14:13 FATAL AppTest:29 - FATAL MESSAGE
+2019-05-27 20:14:31 INFO  StudentTest:68 - Wed Dec 12 00:00:00 EET 199
+2019-05-27 20:14:31 INFO  AppTest:25 - INFO MESSAGE
+2019-05-27 20:14:31 WARN  AppTest:27 - WARN MESSAGE
+2019-05-27 20:14:31 ERROR AppTest:28 - ERROR MESSAGE
+2019-05-27 20:14:31 FATAL AppTest:29 - FATAL MESSAGE
