@@ -1,6 +1,8 @@
 C:\Users\fous3\Documents\GitRep\JClassOptionalTask\jclass-optional-task\src\main\java\kz\zhanbolat\jclass\generator\IdGenerator.java
-C:\Users\fous3\Documents\GitRep\JClassOptionalTask\jclass-optional-task\src\main\java\kz\zhanbolat\jclass\sortings\SortByFacultyAndYearOfStuding.java
 C:\Users\fous3\Documents\GitRep\JClassOptionalTask\jclass-optional-task\src\main\java\kz\zhanbolat\jclass\App.java
-C:\Users\fous3\Documents\GitRep\JClassOptionalTask\jclass-optional-task\src\main\java\kz\zhanbolat\jclass\action\StudentListAction.java
+C:\Users\fous3\Documents\GitRep\JClassOptionalTask\jclass-optional-task\src\main\java\kz\zhanbolat\jclass\diplay\DisplayStudentListByFaculty.java
+C:\Users\fous3\Documents\GitRep\JClassOptionalTask\jclass-optional-task\src\main\java\kz\zhanbolat\jclass\diplay\DisplayStudentsAfterDate.java
+C:\Users\fous3\Documents\GitRep\JClassOptionalTask\jclass-optional-task\src\main\java\kz\zhanbolat\jclass\diplay\DisplayGroups.java
+C:\Users\fous3\Documents\GitRep\JClassOptionalTask\jclass-optional-task\src\main\java\kz\zhanbolat\jclass\diplay\DisplayAllStudents.java
 C:\Users\fous3\Documents\GitRep\JClassOptionalTask\jclass-optional-task\src\main\java\kz\zhanbolat\jclass\entity\Student.java
 C:\Users\fous3\Documents\GitRep\JClassOptionalTask\jclass-optional-task\src\main\java\kz\zhanbolat\jclass\entity\StudentDataBase.java

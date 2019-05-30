@@ -15,7 +15,6 @@ public class StudentTest {
     Logger logger = Logger.getLogger(getClass());
 
     @Test
-    @Ignore("successfully pass")
     public void constructorTest() {
         logger.info("-----------ConstructorTest---------------");
         SimpleDateFormat dateFormat = new SimpleDateFormat("dd.MM.yyyy");
@@ -59,7 +58,6 @@ public class StudentTest {
     }
 
     @Test
-    @Ignore("succesfully pass")
     public void constructorShouldNotifyAboutException() {
         Student student = new Student(1L, "foo", "bar", "foobar", "12.12.1999",
                                     "street", "8-701-123-13-32", "FIT", 1,

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="kz.zhanbolat.jclass.StudentTest" time="0.067" tests="2" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="kz.zhanbolat.jclass.DisplayStudentsAfterDateTest" time="0.07" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -62,6 +62,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="54.0"/>
   </properties>
-  <testcase name="constructorTest" classname="kz.zhanbolat.jclass.StudentTest" time="0.06"/>
-  <testcase name="constructorShouldNotifyAboutException" classname="kz.zhanbolat.jclass.StudentTest" time="0.004"/>
+  <testcase name="test" classname="kz.zhanbolat.jclass.DisplayStudentsAfterDateTest" time="0.064"/>
 </testsuite>

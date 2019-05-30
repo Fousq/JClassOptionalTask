@@ -14,6 +14,7 @@ public class StudentDataBase {
     }
 
     public StudentDataBase(Student... students) {
+    	this.students = new ArrayList<>();
         Stream.of(students).forEach(student -> this.students.add(student));
     }
 
@@ -28,6 +29,11 @@ public class StudentDataBase {
     public void setStudents(List<Student> students) {
         this.students = students;
     }
+    
+    public void setStudents(Student... students) {
+    	this.students.clear();
+    	Stream.of(students).forEach(student -> this.students.add(student));
+    }
 
     public void add(Student student) {
         students.add(student);
@@ -36,5 +42,35 @@ public class StudentDataBase {
     public Student get(int index) {
         return students.get(index);
     }
+
+	@Override
+	public String toString() {
+		return "StudentDataBase [students=" + students + "]";
+	}
+
+	@Override
+	public int hashCode() {
+		final int prime = 31;
+		int result = 1;
+		result = prime * result + ((students == null) ? 0 : students.hashCode());
+		return result;
+	}
+
+	@Override
+	public boolean equals(Object obj) {
+		if (this == obj)
+			return true;
+		if (obj == null)
+			return false;
+		if (getClass() != obj.getClass())
+			return false;
+		StudentDataBase other = (StudentDataBase) obj;
+		if (students == null) {
+			if (other.students != null)
+				return false;
+		} else if (!students.equals(other.students))
+			return false;
+		return true;
+	}
 
 }

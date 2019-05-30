@@ -187,4 +187,83 @@ public class Student {
                  + ", year of studing=" + yearOfStuding + "]";
     }
 
+	@Override
+	public int hashCode() {
+		final int prime = 31;
+		int result = 1;
+		result = prime * result + ((address == null) ? 0 : address.hashCode());
+		result = prime * result + ((dateOfBirth == null) ? 0 : dateOfBirth.hashCode());
+		result = prime * result + ((faculty == null) ? 0 : faculty.hashCode());
+		result = prime * result + ((group == null) ? 0 : group.hashCode());
+		result = prime * result + ((middleName == null) ? 0 : middleName.hashCode());
+		result = prime * result + ((name == null) ? 0 : name.hashCode());
+		result = prime * result + ((studentId == null) ? 0 : studentId.hashCode());
+		result = prime * result + ((surname == null) ? 0 : surname.hashCode());
+		result = prime * result + ((telephoneNumber == null) ? 0 : telephoneNumber.hashCode());
+		result = prime * result + ((yearOfStuding == null) ? 0 : yearOfStuding.hashCode());
+		return result;
+	}
+
+	@Override
+	public boolean equals(Object obj) {
+		if (this == obj)
+			return true;
+		if (obj == null)
+			return false;
+		if (getClass() != obj.getClass())
+			return false;
+		Student other = (Student) obj;
+		if (address == null) {
+			if (other.address != null)
+				return false;
+		} else if (!address.equals(other.address))
+			return false;
+		if (dateOfBirth == null) {
+			if (other.dateOfBirth != null)
+				return false;
+		} else if (!dateOfBirth.equals(other.dateOfBirth))
+			return false;
+		if (faculty == null) {
+			if (other.faculty != null)
+				return false;
+		} else if (!faculty.equals(other.faculty))
+			return false;
+		if (group == null) {
+			if (other.group != null)
+				return false;
+		} else if (!group.equals(other.group))
+			return false;
+		if (middleName == null) {
+			if (other.middleName != null)
+				return false;
+		} else if (!middleName.equals(other.middleName))
+			return false;
+		if (name == null) {
+			if (other.name != null)
+				return false;
+		} else if (!name.equals(other.name))
+			return false;
+		if (studentId == null) {
+			if (other.studentId != null)
+				return false;
+		} else if (!studentId.equals(other.studentId))
+			return false;
+		if (surname == null) {
+			if (other.surname != null)
+				return false;
+		} else if (!surname.equals(other.surname))
+			return false;
+		if (telephoneNumber == null) {
+			if (other.telephoneNumber != null)
+				return false;
+		} else if (!telephoneNumber.equals(other.telephoneNumber))
+			return false;
+		if (yearOfStuding == null) {
+			if (other.yearOfStuding != null)
+				return false;
+		} else if (!yearOfStuding.equals(other.yearOfStuding))
+			return false;
+		return true;
+	}
+    
 }

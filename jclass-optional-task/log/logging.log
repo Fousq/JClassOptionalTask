@@ -1,0 +1,24 @@
+2019-05-31 02:26:17 INFO  jclass.StudentTest:53 - telephone number: 8-771-323-34-42
+2019-05-31 02:26:17 INFO  jclass.StudentTest:54 - faculty: Not defined
+2019-05-31 02:26:17 INFO  jclass.StudentTest:55 - year of studing: 0
+2019-05-31 02:26:17 INFO  jclass.StudentTest:56 - group: Not defined
+2019-05-31 02:26:17 INFO  jclass.StudentTest:57 - -----------ConstructorTest---------------
+2019-05-31 02:26:17 INFO  jclass.StudentTest:65 - Sun Dec 12 00:00:00 ALMT 1999
+2019-05-31 02:27:33 INFO  jclass.App:35 - Student list: 
+2019-05-31 02:27:33 INFO  jclass.App:36 - Student [address=street, date of birth=Thu Sep 16 00:00:00 ALMST 1999, faculty=FIT, group=INF-22, middle name=Middle, name=Zhanbolat, studentId=1, surname=Orakbayev, telephone number=8-888-88-88, year of studing=2]
+2019-05-31 02:27:33 INFO  jclass.App:36 - Student [address=street, date of birth=Tue Sep 12 00:00:00 ALMST 2000, faculty=FMM, group=M-21, middle name=Middle, name=Name, studentId=2, surname=Surname, telephone number=8-888-88-88, year of studing=2]
+2019-05-31 02:27:33 INFO  jclass.App:36 - Student [address=street, date of birth=Sat Apr 12 00:00:00 ALMST 1997, faculty=Not defined, group=Not defined, middle name=M, name=N, studentId=3, surname=S, telephone number=8-888-88-88, year of studing=0]
+2019-05-31 02:27:33 INFO  jclass.App:40 - Enter the faculty: 
+2019-05-31 02:27:40 INFO  jclass.App:46 - Students of faculty FMM: 
+2019-05-31 02:27:40 INFO  diplay.DisplayStudentListByFaculty:15 - Student [address=street, date of birth=Tue Sep 12 00:00:00 ALMST 2000, faculty=FMM, group=M-21, middle name=Middle, name=Name, studentId=2, surname=Surname, telephone number=8-888-88-88, year of studing=2]
+2019-05-31 02:27:40 INFO  jclass.App:48 - Students of every faculty and year of studing: 
+2019-05-31 02:27:40 INFO  diplay.DisplayAllStudents:24 - Student [address=street, date of birth=Thu Sep 16 00:00:00 ALMST 1999, faculty=FIT, group=INF-22, middle name=Middle, name=Zhanbolat, studentId=1, surname=Orakbayev, telephone number=8-888-88-88, year of studing=2]
+2019-05-31 02:27:40 INFO  diplay.DisplayAllStudents:24 - Student [address=street, date of birth=Tue Sep 12 00:00:00 ALMST 2000, faculty=FMM, group=M-21, middle name=Middle, name=Name, studentId=2, surname=Surname, telephone number=8-888-88-88, year of studing=2]
+2019-05-31 02:27:40 INFO  jclass.App:52 - Enter the year: 
+2019-05-31 02:27:51 INFO  jclass.App:58 - Students after year 1992: 
+2019-05-31 02:27:51 INFO  diplay.DisplayStudentsAfterDate:57 - Student [address=street, date of birth=Thu Sep 16 00:00:00 ALMST 1999, faculty=FIT, group=INF-22, middle name=Middle, name=Zhanbolat, studentId=1, surname=Orakbayev, telephone number=8-888-88-88, year of studing=2]
+2019-05-31 02:27:51 INFO  diplay.DisplayStudentsAfterDate:57 - Student [address=street, date of birth=Tue Sep 12 00:00:00 ALMST 2000, faculty=FMM, group=M-21, middle name=Middle, name=Name, studentId=2, surname=Surname, telephone number=8-888-88-88, year of studing=2]
+2019-05-31 02:27:51 INFO  diplay.DisplayStudentsAfterDate:57 - Student [address=street, date of birth=Sat Apr 12 00:00:00 ALMST 1997, faculty=Not defined, group=Not defined, middle name=M, name=N, studentId=3, surname=S, telephone number=8-888-88-88, year of studing=0]
+2019-05-31 02:27:51 INFO  jclass.App:60 - Groups: 
+2019-05-31 02:27:51 INFO  diplay.DisplayGroups:21 - INF-22
+2019-05-31 02:27:51 INFO  diplay.DisplayGroups:21 - M-21
