@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: kz.zhanbolat.jclass.StudentTest
 -------------------------------------------------------------------------------
-Tests run: 2, Failures: 0, Errors: 0, Skipped: 2, Time elapsed: 0.028 s - in kz.zhanbolat.jclass.StudentTest
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 2, Time elapsed: 0.002 s - in kz.zhanbolat.jclass.StudentTest

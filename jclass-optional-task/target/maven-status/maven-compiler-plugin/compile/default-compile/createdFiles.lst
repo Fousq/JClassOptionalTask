@@ -1,3 +1,6 @@
-kz/zhanbolat/jclass/sortings/SortByFacultyAndYearOfStuding.class
-kz/zhanbolat/jclass/generator/IdGenerator.class
-kz/zhanbolat/jclass/App.class
+kz\zhanbolat\jclass\action\StudentListAction.class
+kz\zhanbolat\jclass\entity\StudentDataBase.class
+kz\zhanbolat\jclass\generator\IdGenerator.class
+kz\zhanbolat\jclass\sortings\SortByFacultyAndYearOfStuding.class
+kz\zhanbolat\jclass\App.class
+kz\zhanbolat\jclass\entity\Student.class

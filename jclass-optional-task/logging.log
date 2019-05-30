@@ -344,3 +344,141 @@
 2019-05-28 20:45:30 WARN  AppTest:27 - WARN MESSAGE
 2019-05-28 20:45:30 ERROR AppTest:28 - ERROR MESSAGE
 2019-05-28 20:45:30 FATAL AppTest:29 - FATAL MESSAGE
+2019-05-30 07:16:35 INFO  AppTest:35 - Student list: 
+2019-05-30 07:16:35 INFO  AppTest:36 - Student [address=street, date of birth=Thu Sep 16 00:00:00 ALMST 1999, faculty=FIT, group=INF-22, middle name=Middle, name=Zhanbolat, studentId=1, surname=Orakbayev, telephone number=8-888-88-88, year of studing=2]
+2019-05-30 07:16:35 INFO  AppTest:36 - Student [address=street, date of birth=Tue Sep 12 00:00:00 ALMST 2000, faculty=FMM, group=M-21, middle name=Middle, name=Name, studentId=2, surname=Surname, telephone number=8-888-88-88, year of studing=2]
+2019-05-30 07:16:35 INFO  AppTest:36 - Student [address=street, date of birth=Sat Apr 12 00:00:00 ALMST 1997, faculty=Not defined, group=Not defined, middle name=M, name=N, studentId=3, surname=S, telephone number=8-888-88-88, year of studing=0]
+2019-05-30 07:16:35 INFO  AppTest:40 - Enter the faculty: 
+2019-05-30 07:17:14 INFO  AppTest:47 - Students of faculty            : 
+2019-05-30 07:17:14 INFO  AppTest:50 - Students of every faculty and year of studing: 
+2019-05-30 07:17:14 INFO  AppTest:51 - Student [address=street, date of birth=Thu Sep 16 00:00:00 ALMST 1999, faculty=FIT, group=INF-22, middle name=Middle, name=Zhanbolat, studentId=1, surname=Orakbayev, telephone number=8-888-88-88, year of studing=2]
+2019-05-30 07:17:14 INFO  AppTest:51 - Student [address=street, date of birth=Tue Sep 12 00:00:00 ALMST 2000, faculty=FMM, group=M-21, middle name=Middle, name=Name, studentId=2, surname=Surname, telephone number=8-888-88-88, year of studing=2]
+2019-05-30 07:17:14 INFO  AppTest:51 - Student [address=street, date of birth=Sat Apr 12 00:00:00 ALMST 1997, faculty=Not defined, group=Not defined, middle name=M, name=N, studentId=3, surname=S, telephone number=8-888-88-88, year of studing=0]
+2019-05-30 07:17:14 INFO  AppTest:54 - Enter the year: 
+2019-05-30 07:17:29 INFO  AppTest:35 - Student list: 
+2019-05-30 07:17:29 INFO  AppTest:36 - Student [address=street, date of birth=Thu Sep 16 00:00:00 ALMST 1999, faculty=FIT, group=INF-22, middle name=Middle, name=Zhanbolat, studentId=1, surname=Orakbayev, telephone number=8-888-88-88, year of studing=2]
+2019-05-30 07:17:29 INFO  AppTest:36 - Student [address=street, date of birth=Tue Sep 12 00:00:00 ALMST 2000, faculty=FMM, group=M-21, middle name=Middle, name=Name, studentId=2, surname=Surname, telephone number=8-888-88-88, year of studing=2]
+2019-05-30 07:17:29 INFO  AppTest:36 - Student [address=street, date of birth=Sat Apr 12 00:00:00 ALMST 1997, faculty=Not defined, group=Not defined, middle name=M, name=N, studentId=3, surname=S, telephone number=8-888-88-88, year of studing=0]
+2019-05-30 07:17:29 INFO  AppTest:40 - Enter the faculty: 
+2019-05-30 13:26:31 INFO  StudentListActionTest:60 - -------------getStudentsAfterYear---------------------
+2019-05-30 13:26:31 INFO  StudentListActionTest:71 - Student [address=street, date of birth=Sun Sep 16 00:00:00 ALMST 2001, faculty=Not defined, group=Not defined, middle name=CC, name=BB, studentId=4, surname=AA, telephone number=8-701-212-43-43, year of studing=0]
+2019-05-30 13:26:31 INFO  StudentListActionTest:75 - Student [address=street, date of birth=Thu Sep 16 00:00:00 ALMST 1999, faculty=FIT, group=GIP-43, middle name=CC, name=BB, studentId=1, surname=AA, telephone number=8-701-212-43-43, year of studing=1]
+2019-05-30 13:26:31 INFO  StudentListActionTest:75 - Student [address=street, date of birth=Tue Sep 21 00:00:00 ALMST 1999, faculty=FMM, group=GIP-53, middle name=AA, name=CC, studentId=2, surname=BB, telephone number=8-701-212-43-43, year of studing=1]
+2019-05-30 13:26:31 INFO  StudentListActionTest:75 - Student [address=street, date of birth=Sun Sep 16 00:00:00 ALMST 2001, faculty=Not defined, group=Not defined, middle name=CC, name=BB, studentId=4, surname=AA, telephone number=8-701-212-43-43, year of studing=0]
+2019-05-30 13:26:31 INFO  StudentListActionTest:79 - Student [address=street, date of birth=Sun Sep 16 00:00:00 ALMST 2001, faculty=Not defined, group=Not defined, middle name=CC, name=BB, studentId=4, surname=AA, telephone number=8-701-212-43-43, year of studing=0]
+2019-05-30 13:26:31 ERROR StudentListAction:77 - Year must not be negative
+2019-05-30 13:26:31 INFO  StudentListActionTest:88 - ------------getGroups------------------
+2019-05-30 13:26:31 INFO  StudentListActionTest:90 - GIP-43
+2019-05-30 13:26:31 INFO  StudentListActionTest:90 - GIP-53
+2019-05-30 13:26:31 INFO  StudentListActionTest:91 - ------------getGroups-------------------
+2019-05-30 13:26:31 INFO  StudentListActionTest:36 - ----------getStudentsByFaculty------------
+2019-05-30 13:26:31 INFO  StudentListActionTest:38 - FIT students: 
+2019-05-30 13:26:31 INFO  StudentListActionTest:39 - Student [address=street, date of birth=Thu Sep 16 00:00:00 ALMST 1999, faculty=FIT, group=GIP-43, middle name=CC, name=BB, studentId=1, surname=AA, telephone number=8-701-212-43-43, year of studing=1]
+2019-05-30 13:26:31 INFO  StudentListActionTest:39 - Student [address=street, date of birth=Tue Dec 16 00:00:00 ALMT 1997, faculty=FIT, group=GIP-43, middle name=ZZ, name=WW, studentId=3, surname=CC, telephone number=8-701-212-43-43, year of studing=1]
+2019-05-30 13:26:31 INFO  StudentListActionTest:41 - FMM students: 
+2019-05-30 13:26:31 INFO  StudentListActionTest:42 - Student [address=street, date of birth=Tue Sep 21 00:00:00 ALMST 1999, faculty=FMM, group=GIP-53, middle name=AA, name=CC, studentId=2, surname=BB, telephone number=8-701-212-43-43, year of studing=1]
+2019-05-30 13:26:31 INFO  StudentListActionTest:44 - Not defined students: 
+2019-05-30 13:26:31 INFO  StudentListActionTest:45 - Student [address=street, date of birth=Sun Sep 16 00:00:00 ALMST 2001, faculty=Not defined, group=Not defined, middle name=CC, name=BB, studentId=4, surname=AA, telephone number=8-701-212-43-43, year of studing=0]
+2019-05-30 13:26:31 INFO  StudentListActionTest:46 - ----------getStudentsByFaculty------------
+2019-05-30 13:26:31 INFO  StudentListActionTest:51 - ------getStudentsOfEveryFacultyAndYearOfStuding--------
+2019-05-30 13:26:31 INFO  StudentListActionTest:54 - Student [address=street, date of birth=Thu Sep 16 00:00:00 ALMST 1999, faculty=FIT, group=GIP-43, middle name=CC, name=BB, studentId=1, surname=AA, telephone number=8-701-212-43-43, year of studing=1]
+2019-05-30 13:26:31 INFO  StudentListActionTest:54 - Student [address=street, date of birth=Tue Dec 16 00:00:00 ALMT 1997, faculty=FIT, group=GIP-43, middle name=ZZ, name=WW, studentId=3, surname=CC, telephone number=8-701-212-43-43, year of studing=1]
+2019-05-30 13:26:31 INFO  StudentListActionTest:54 - Student [address=street, date of birth=Tue Sep 21 00:00:00 ALMST 1999, faculty=FMM, group=GIP-53, middle name=AA, name=CC, studentId=2, surname=BB, telephone number=8-701-212-43-43, year of studing=1]
+2019-05-30 13:26:31 INFO  StudentListActionTest:54 - Student [address=street, date of birth=Sun Sep 16 00:00:00 ALMST 2001, faculty=Not defined, group=Not defined, middle name=CC, name=BB, studentId=4, surname=AA, telephone number=8-701-212-43-43, year of studing=0]
+2019-05-30 13:26:31 INFO  StudentListActionTest:55 - ------getStudentsOfEveryFacultyAndYearOfStuding--------
+2019-05-30 13:31:13 INFO  StudentListActionTest:60 - -------------getStudentsAfterYear---------------------
+2019-05-30 13:31:13 INFO  StudentListActionTest:71 - Student [address=street, date of birth=Sun Sep 16 00:00:00 ALMST 2001, faculty=Not defined, group=Not defined, middle name=CC, name=BB, studentId=4, surname=AA, telephone number=8-701-212-43-43, year of studing=0]
+2019-05-30 13:31:13 INFO  StudentListActionTest:75 - Student [address=street, date of birth=Thu Sep 16 00:00:00 ALMST 1999, faculty=FIT, group=GIP-43, middle name=CC, name=BB, studentId=1, surname=AA, telephone number=8-701-212-43-43, year of studing=1]
+2019-05-30 13:31:13 INFO  StudentListActionTest:75 - Student [address=street, date of birth=Tue Sep 21 00:00:00 ALMST 1999, faculty=FMM, group=GIP-53, middle name=AA, name=CC, studentId=2, surname=BB, telephone number=8-701-212-43-43, year of studing=1]
+2019-05-30 13:31:13 INFO  StudentListActionTest:75 - Student [address=street, date of birth=Sun Sep 16 00:00:00 ALMST 2001, faculty=Not defined, group=Not defined, middle name=CC, name=BB, studentId=4, surname=AA, telephone number=8-701-212-43-43, year of studing=0]
+2019-05-30 13:31:13 INFO  StudentListActionTest:79 - Student [address=street, date of birth=Sun Sep 16 00:00:00 ALMST 2001, faculty=Not defined, group=Not defined, middle name=CC, name=BB, studentId=4, surname=AA, telephone number=8-701-212-43-43, year of studing=0]
+2019-05-30 13:31:13 ERROR StudentListAction:77 - Year must not be negative
+2019-05-30 13:31:13 INFO  StudentListActionTest:88 - ------------getGroups------------------
+2019-05-30 13:31:13 INFO  StudentListActionTest:90 - GIP-43
+2019-05-30 13:31:13 INFO  StudentListActionTest:90 - GIP-53
+2019-05-30 13:31:13 INFO  StudentListActionTest:91 - ------------getGroups-------------------
+2019-05-30 13:31:13 INFO  StudentListActionTest:36 - ----------getStudentsByFaculty------------
+2019-05-30 13:31:13 INFO  StudentListActionTest:38 - FIT students: 
+2019-05-30 13:31:13 INFO  StudentListActionTest:39 - Student [address=street, date of birth=Thu Sep 16 00:00:00 ALMST 1999, faculty=FIT, group=GIP-43, middle name=CC, name=BB, studentId=1, surname=AA, telephone number=8-701-212-43-43, year of studing=1]
+2019-05-30 13:31:13 INFO  StudentListActionTest:39 - Student [address=street, date of birth=Tue Dec 16 00:00:00 ALMT 1997, faculty=FIT, group=GIP-43, middle name=ZZ, name=WW, studentId=3, surname=CC, telephone number=8-701-212-43-43, year of studing=1]
+2019-05-30 13:31:13 INFO  StudentListActionTest:41 - FMM students: 
+2019-05-30 13:31:13 INFO  StudentListActionTest:42 - Student [address=street, date of birth=Tue Sep 21 00:00:00 ALMST 1999, faculty=FMM, group=GIP-53, middle name=AA, name=CC, studentId=2, surname=BB, telephone number=8-701-212-43-43, year of studing=1]
+2019-05-30 13:31:13 INFO  StudentListActionTest:44 - Not defined students: 
+2019-05-30 13:31:13 INFO  StudentListActionTest:45 - Student [address=street, date of birth=Sun Sep 16 00:00:00 ALMST 2001, faculty=Not defined, group=Not defined, middle name=CC, name=BB, studentId=4, surname=AA, telephone number=8-701-212-43-43, year of studing=0]
+2019-05-30 13:31:13 INFO  StudentListActionTest:46 - ----------getStudentsByFaculty------------
+2019-05-30 13:31:13 INFO  StudentListActionTest:51 - ------getStudentsOfEveryFacultyAndYearOfStuding--------
+2019-05-30 13:31:13 INFO  StudentListActionTest:54 - Student [address=street, date of birth=Thu Sep 16 00:00:00 ALMST 1999, faculty=FIT, group=GIP-43, middle name=CC, name=BB, studentId=1, surname=AA, telephone number=8-701-212-43-43, year of studing=1]
+2019-05-30 13:31:13 INFO  StudentListActionTest:54 - Student [address=street, date of birth=Tue Dec 16 00:00:00 ALMT 1997, faculty=FIT, group=GIP-43, middle name=ZZ, name=WW, studentId=3, surname=CC, telephone number=8-701-212-43-43, year of studing=1]
+2019-05-30 13:31:13 INFO  StudentListActionTest:54 - Student [address=street, date of birth=Tue Sep 21 00:00:00 ALMST 1999, faculty=FMM, group=GIP-53, middle name=AA, name=CC, studentId=2, surname=BB, telephone number=8-701-212-43-43, year of studing=1]
+2019-05-30 13:31:13 INFO  StudentListActionTest:54 - Student [address=street, date of birth=Sun Sep 16 00:00:00 ALMST 2001, faculty=Not defined, group=Not defined, middle name=CC, name=BB, studentId=4, surname=AA, telephone number=8-701-212-43-43, year of studing=0]
+2019-05-30 13:31:13 INFO  StudentListActionTest:55 - ------getStudentsOfEveryFacultyAndYearOfStuding--------
+2019-05-30 13:32:41 INFO  StudentListActionTest:60 - -------------getStudentsAfterYear---------------------
+2019-05-30 13:32:41 INFO  StudentListActionTest:71 - Student [address=street, date of birth=Sun Sep 16 00:00:00 ALMST 2001, faculty=Not defined, group=Not defined, middle name=CC, name=BB, studentId=4, surname=AA, telephone number=8-701-212-43-43, year of studing=0]
+2019-05-30 13:32:41 INFO  StudentListActionTest:75 - Student [address=street, date of birth=Thu Sep 16 00:00:00 ALMST 1999, faculty=FIT, group=GIP-43, middle name=CC, name=BB, studentId=1, surname=AA, telephone number=8-701-212-43-43, year of studing=1]
+2019-05-30 13:32:41 INFO  StudentListActionTest:75 - Student [address=street, date of birth=Tue Sep 21 00:00:00 ALMST 1999, faculty=FMM, group=GIP-53, middle name=AA, name=CC, studentId=2, surname=BB, telephone number=8-701-212-43-43, year of studing=1]
+2019-05-30 13:32:41 INFO  StudentListActionTest:75 - Student [address=street, date of birth=Sun Sep 16 00:00:00 ALMST 2001, faculty=Not defined, group=Not defined, middle name=CC, name=BB, studentId=4, surname=AA, telephone number=8-701-212-43-43, year of studing=0]
+2019-05-30 13:32:41 INFO  StudentListActionTest:79 - Student [address=street, date of birth=Sun Sep 16 00:00:00 ALMST 2001, faculty=Not defined, group=Not defined, middle name=CC, name=BB, studentId=4, surname=AA, telephone number=8-701-212-43-43, year of studing=0]
+2019-05-30 13:32:41 ERROR StudentListAction:77 - Year must not be negative
+2019-05-30 13:32:41 INFO  StudentListActionTest:88 - ------------getGroups------------------
+2019-05-30 13:32:41 INFO  StudentListActionTest:90 - GIP-43
+2019-05-30 13:32:41 INFO  StudentListActionTest:90 - GIP-53
+2019-05-30 13:32:41 INFO  StudentListActionTest:91 - ------------getGroups-------------------
+2019-05-30 13:32:41 INFO  StudentListActionTest:36 - ----------getStudentsByFaculty------------
+2019-05-30 13:32:41 INFO  StudentListActionTest:38 - FIT students: 
+2019-05-30 13:32:41 INFO  StudentListActionTest:39 - Student [address=street, date of birth=Thu Sep 16 00:00:00 ALMST 1999, faculty=FIT, group=GIP-43, middle name=CC, name=BB, studentId=1, surname=AA, telephone number=8-701-212-43-43, year of studing=1]
+2019-05-30 13:32:41 INFO  StudentListActionTest:39 - Student [address=street, date of birth=Tue Dec 16 00:00:00 ALMT 1997, faculty=FIT, group=GIP-43, middle name=ZZ, name=WW, studentId=3, surname=CC, telephone number=8-701-212-43-43, year of studing=1]
+2019-05-30 13:32:41 INFO  StudentListActionTest:41 - FMM students: 
+2019-05-30 13:32:41 INFO  StudentListActionTest:42 - Student [address=street, date of birth=Tue Sep 21 00:00:00 ALMST 1999, faculty=FMM, group=GIP-53, middle name=AA, name=CC, studentId=2, surname=BB, telephone number=8-701-212-43-43, year of studing=1]
+2019-05-30 13:32:41 INFO  StudentListActionTest:44 - Not defined students: 
+2019-05-30 13:32:41 INFO  StudentListActionTest:45 - Student [address=street, date of birth=Sun Sep 16 00:00:00 ALMST 2001, faculty=Not defined, group=Not defined, middle name=CC, name=BB, studentId=4, surname=AA, telephone number=8-701-212-43-43, year of studing=0]
+2019-05-30 13:32:41 INFO  StudentListActionTest:46 - ----------getStudentsByFaculty------------
+2019-05-30 13:32:41 INFO  StudentListActionTest:51 - ------getStudentsOfEveryFacultyAndYearOfStuding--------
+2019-05-30 13:32:41 INFO  StudentListActionTest:54 - Student [address=street, date of birth=Thu Sep 16 00:00:00 ALMST 1999, faculty=FIT, group=GIP-43, middle name=CC, name=BB, studentId=1, surname=AA, telephone number=8-701-212-43-43, year of studing=1]
+2019-05-30 13:32:41 INFO  StudentListActionTest:54 - Student [address=street, date of birth=Tue Dec 16 00:00:00 ALMT 1997, faculty=FIT, group=GIP-43, middle name=ZZ, name=WW, studentId=3, surname=CC, telephone number=8-701-212-43-43, year of studing=1]
+2019-05-30 13:32:41 INFO  StudentListActionTest:54 - Student [address=street, date of birth=Tue Sep 21 00:00:00 ALMST 1999, faculty=FMM, group=GIP-53, middle name=AA, name=CC, studentId=2, surname=BB, telephone number=8-701-212-43-43, year of studing=1]
+2019-05-30 13:32:41 INFO  StudentListActionTest:54 - Student [address=street, date of birth=Sun Sep 16 00:00:00 ALMST 2001, faculty=Not defined, group=Not defined, middle name=CC, name=BB, studentId=4, surname=AA, telephone number=8-701-212-43-43, year of studing=0]
+2019-05-30 13:32:41 INFO  StudentListActionTest:55 - ------getStudentsOfEveryFacultyAndYearOfStuding--------
+2019-05-30 13:33:46 INFO  App:34 - Student list: 
+2019-05-30 13:33:46 INFO  App:35 - Student [address=street, date of birth=Thu Sep 16 00:00:00 ALMST 1999, faculty=FIT, group=INF-22, middle name=Middle, name=Zhanbolat, studentId=1, surname=Orakbayev, telephone number=8-888-88-88, year of studing=2]
+2019-05-30 13:33:46 INFO  App:35 - Student [address=street, date of birth=Tue Sep 12 00:00:00 ALMST 2000, faculty=FMM, group=M-21, middle name=Middle, name=Name, studentId=2, surname=Surname, telephone number=8-888-88-88, year of studing=2]
+2019-05-30 13:33:46 INFO  App:35 - Student [address=street, date of birth=Sat Apr 12 00:00:00 ALMST 1997, faculty=Not defined, group=Not defined, middle name=M, name=N, studentId=3, surname=S, telephone number=8-888-88-88, year of studing=0]
+2019-05-30 13:33:46 INFO  App:39 - Enter the faculty: 
+2019-05-30 13:34:01 INFO  App:46 - Students of faculty FIT: 
+2019-05-30 13:34:01 INFO  App:47 - Student [address=street, date of birth=Thu Sep 16 00:00:00 ALMST 1999, faculty=FIT, group=INF-22, middle name=Middle, name=Zhanbolat, studentId=1, surname=Orakbayev, telephone number=8-888-88-88, year of studing=2]
+2019-05-30 13:34:01 INFO  App:49 - Students of every faculty and year of studing: 
+2019-05-30 13:34:01 INFO  App:50 - Student [address=street, date of birth=Thu Sep 16 00:00:00 ALMST 1999, faculty=FIT, group=INF-22, middle name=Middle, name=Zhanbolat, studentId=1, surname=Orakbayev, telephone number=8-888-88-88, year of studing=2]
+2019-05-30 13:34:01 INFO  App:50 - Student [address=street, date of birth=Tue Sep 12 00:00:00 ALMST 2000, faculty=FMM, group=M-21, middle name=Middle, name=Name, studentId=2, surname=Surname, telephone number=8-888-88-88, year of studing=2]
+2019-05-30 13:34:01 INFO  App:50 - Student [address=street, date of birth=Sat Apr 12 00:00:00 ALMST 1997, faculty=Not defined, group=Not defined, middle name=M, name=N, studentId=3, surname=S, telephone number=8-888-88-88, year of studing=0]
+2019-05-30 13:34:01 INFO  App:53 - Enter the year: 
+2019-05-30 13:34:08 INFO  App:60 - Students after year 1997: 
+2019-05-30 13:34:08 INFO  App:61 - Student [address=street, date of birth=Thu Sep 16 00:00:00 ALMST 1999, faculty=FIT, group=INF-22, middle name=Middle, name=Zhanbolat, studentId=1, surname=Orakbayev, telephone number=8-888-88-88, year of studing=2]
+2019-05-30 13:34:08 INFO  App:61 - Student [address=street, date of birth=Tue Sep 12 00:00:00 ALMST 2000, faculty=FMM, group=M-21, middle name=Middle, name=Name, studentId=2, surname=Surname, telephone number=8-888-88-88, year of studing=2]
+2019-05-30 13:34:08 INFO  App:63 - Groups: 
+2019-05-30 13:34:08 INFO  App:64 - INF-22
+2019-05-30 13:34:08 INFO  App:64 - M-21
+2019-05-30 13:42:10 INFO  StudentListActionTest:60 - -------------getStudentsAfterYear---------------------
+2019-05-30 13:42:10 INFO  StudentListActionTest:71 - Student [address=street, date of birth=Sun Sep 16 00:00:00 ALMST 2001, faculty=Not defined, group=Not defined, middle name=CC, name=BB, studentId=4, surname=AA, telephone number=8-701-212-43-43, year of studing=0]
+2019-05-30 13:42:10 INFO  StudentListActionTest:75 - Student [address=street, date of birth=Thu Sep 16 00:00:00 ALMST 1999, faculty=FIT, group=GIP-43, middle name=CC, name=BB, studentId=1, surname=AA, telephone number=8-701-212-43-43, year of studing=1]
+2019-05-30 13:42:10 INFO  StudentListActionTest:75 - Student [address=street, date of birth=Tue Sep 21 00:00:00 ALMST 1999, faculty=FMM, group=GIP-53, middle name=AA, name=CC, studentId=2, surname=BB, telephone number=8-701-212-43-43, year of studing=1]
+2019-05-30 13:42:10 INFO  StudentListActionTest:75 - Student [address=street, date of birth=Sun Sep 16 00:00:00 ALMST 2001, faculty=Not defined, group=Not defined, middle name=CC, name=BB, studentId=4, surname=AA, telephone number=8-701-212-43-43, year of studing=0]
+2019-05-30 13:42:10 INFO  StudentListActionTest:79 - Student [address=street, date of birth=Sun Sep 16 00:00:00 ALMST 2001, faculty=Not defined, group=Not defined, middle name=CC, name=BB, studentId=4, surname=AA, telephone number=8-701-212-43-43, year of studing=0]
+2019-05-30 13:42:10 ERROR StudentListAction:77 - Year must not be negative
+2019-05-30 13:42:10 INFO  StudentListActionTest:88 - ------------getGroups------------------
+2019-05-30 13:42:10 INFO  StudentListActionTest:90 - GIP-43
+2019-05-30 13:42:10 INFO  StudentListActionTest:90 - GIP-53
+2019-05-30 13:42:10 INFO  StudentListActionTest:91 - ------------getGroups-------------------
+2019-05-30 13:42:10 INFO  StudentListActionTest:36 - ----------getStudentsByFaculty------------
+2019-05-30 13:42:10 INFO  StudentListActionTest:38 - FIT students: 
+2019-05-30 13:42:10 INFO  StudentListActionTest:39 - Student [address=street, date of birth=Thu Sep 16 00:00:00 ALMST 1999, faculty=FIT, group=GIP-43, middle name=CC, name=BB, studentId=1, surname=AA, telephone number=8-701-212-43-43, year of studing=1]
+2019-05-30 13:42:10 INFO  StudentListActionTest:39 - Student [address=street, date of birth=Tue Dec 16 00:00:00 ALMT 1997, faculty=FIT, group=GIP-43, middle name=ZZ, name=WW, studentId=3, surname=CC, telephone number=8-701-212-43-43, year of studing=1]
+2019-05-30 13:42:10 INFO  StudentListActionTest:41 - FMM students: 
+2019-05-30 13:42:10 INFO  StudentListActionTest:42 - Student [address=street, date of birth=Tue Sep 21 00:00:00 ALMST 1999, faculty=FMM, group=GIP-53, middle name=AA, name=CC, studentId=2, surname=BB, telephone number=8-701-212-43-43, year of studing=1]
+2019-05-30 13:42:10 INFO  StudentListActionTest:44 - Not defined students: 
+2019-05-30 13:42:10 INFO  StudentListActionTest:45 - Student [address=street, date of birth=Sun Sep 16 00:00:00 ALMST 2001, faculty=Not defined, group=Not defined, middle name=CC, name=BB, studentId=4, surname=AA, telephone number=8-701-212-43-43, year of studing=0]
+2019-05-30 13:42:10 INFO  StudentListActionTest:46 - ----------getStudentsByFaculty------------
+2019-05-30 13:42:10 INFO  StudentListActionTest:51 - ------getStudentsOfEveryFacultyAndYearOfStuding--------
+2019-05-30 13:42:10 INFO  StudentListActionTest:54 - Student [address=street, date of birth=Thu Sep 16 00:00:00 ALMST 1999, faculty=FIT, group=GIP-43, middle name=CC, name=BB, studentId=1, surname=AA, telephone number=8-701-212-43-43, year of studing=1]
+2019-05-30 13:42:10 INFO  StudentListActionTest:54 - Student [address=street, date of birth=Tue Dec 16 00:00:00 ALMT 1997, faculty=FIT, group=GIP-43, middle name=ZZ, name=WW, studentId=3, surname=CC, telephone number=8-701-212-43-43, year of studing=1]
+2019-05-30 13:42:10 INFO  StudentListActionTest:54 - Student [address=street, date of birth=Tue Sep 21 00:00:00 ALMST 1999, faculty=FMM, group=GIP-53, middle name=AA, name=CC, studentId=2, surname=BB, telephone number=8-701-212-43-43, year of studing=1]
+2019-05-30 13:42:10 INFO  StudentListActionTest:54 - Student [address=street, date of birth=Sun Sep 16 00:00:00 ALMST 2001, faculty=Not defined, group=Not defined, middle name=CC, name=BB, studentId=4, surname=AA, telephone number=8-701-212-43-43, year of studing=0]
+2019-05-30 13:42:10 INFO  StudentListActionTest:55 - ------getStudentsOfEveryFacultyAndYearOfStuding--------

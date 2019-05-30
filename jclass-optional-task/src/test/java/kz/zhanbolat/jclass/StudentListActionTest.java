@@ -32,7 +32,6 @@ public class StudentListActionTest {
     }
 
     @Test
-    @Ignore("succesfully pass")
     public void getStudentsByFacultyTest() {
         logger.info("----------getStudentsByFaculty------------");
         List<Student> students = StudentListAction.getInstance().getStudentsByFaculty(studentsDB.getStudents(), "FIT");
@@ -48,7 +47,6 @@ public class StudentListActionTest {
     }
 
     @Test
-    @Ignore
     public void getStudentsOfEveryFacultyAndYearOfStudingTest() {
         logger.info("------getStudentsOfEveryFacultyAndYearOfStuding--------");
         List<Student> students = StudentListAction.getInstance()
@@ -58,7 +56,6 @@ public class StudentListActionTest {
     }
 
     @Test(expected = IllegalArgumentException.class)
-    @Ignore
     public void getStudentsAfterYearTest() {
         logger.info("-------------getStudentsAfterYear---------------------");
         SimpleDateFormat dateFormat = new SimpleDateFormat("dd.MM.yyyy");
@@ -87,7 +84,6 @@ public class StudentListActionTest {
     }
 
     @Test
-    @Ignore
     public void getGropsTest() {
         logger.info("------------getGroups------------------");
         List<String> groups = StudentListAction.getInstance().getGroups(studentsDB.getStudents());

@@ -5,7 +5,6 @@ import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.Collections;
-import java.util.Comparator;
 import java.util.Date;
 import java.util.List;
 import java.util.stream.Collectors;
@@ -13,6 +12,7 @@ import java.util.stream.Collectors;
 import org.apache.log4j.Logger;
 
 import kz.zhanbolat.jclass.entity.Student;
+import kz.zhanbolat.jclass.sortings.SortByFacultyAndYearOfStuding;
 
 public class StudentListAction {
 
@@ -34,16 +34,6 @@ public class StudentListAction {
         List<Student> sortedList = new ArrayList<>(Collections.unmodifiableList(students));
         Collections.sort(sortedList, new SortByFacultyAndYearOfStuding());
         return sortedList;
-    }
-
-    public class SortByFacultyAndYearOfStuding implements Comparator<Student>{
-
-        @Override
-        public int compare(Student student1, Student student2) {
-            return (student1.getFaculty().compareTo(student2.getFaculty())) 
-                    + (student1.getYearOfStuding() - student2.getYearOfStuding());
-        }
-    
     }
 
     public List<Student> getStudentsAfterYear(List<Student> students, Date date) {
